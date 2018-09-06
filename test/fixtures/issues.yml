@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  summary: MyString
+  status: MyString
+  reporter: one
+  assignee: one
+
+two:
+  summary: MyString
+  status: MyString
+  reporter: two
+  assignee: two
